@@ -177,9 +177,10 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 
 <div align="center">
+### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomi-singh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomi.singh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomi%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-singh-218557375)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomisingh3859@gmail.com)
 <!---[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhoomi.codes)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhoomi_codes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhoomisingh.dev)--->

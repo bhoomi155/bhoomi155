@@ -102,10 +102,12 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 </div>
 
-### 🔥 Streak Stats
+
+## 🔥 Streak Stats
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomi155&theme=neon-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhoomi155&theme=neon-dark)](https://git.io/streak-stats)
+
 
 </div>
 
@@ -177,6 +179,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 
 <div align="center">
+  
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomi%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-singh-218557375)
@@ -195,7 +198,10 @@ My dedication lies in fostering innovations through collaboration and lifelong l
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-**⭐ If you find my work interesting, consider giving my repositories a star!**
+<div align="center">
+  
+  **⭐ If you find my work interesting, consider giving my repositories a star!** 
+</div>
 
 ---
 

@@ -27,15 +27,16 @@
 
 ## 🚀 About Me
 
-> *Passionate developer crafting innovative digital experiences at the intersection of creativity and technology.*
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**.
 
-**I am an explorer of Web development 🌐, Machine learning 🤖, Software engineering 💻.**  
-My dedication lies in fostering innovations through collaboration and lifelong learning.
+I enjoy building projects that combine **data analysis with practical applications**, such as customer segmentation systems and intelligent web applications.
 
-🔹 *Frontend Specialist* building responsive, user-centric web applications  
-🔹 *AI & ML Explorer* diving deep into intelligent systems and data-driven solutions  
-🔹 *Open Source Contributor* sharing knowledge and collaborating with the community  
-🔹 *Problem Solver* turning complex challenges into elegant, scalable solutions  
+Currently focusing on:
+- Machine Learning fundamentals
+- Data analytics using Python
+- Building interactive web applications
+
+I believe the best way to learn technology is **by building real projects and solving practical problems.**
 
 ---
 
@@ -55,21 +56,17 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 <picture><img src="gitbanner.gif" width="100%"></picture> ---> 
 
 ---
-
 ## 🛠️ Tech Arsenal
 
 ### 🌐 Frontend Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 
 ### 🧰 Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
@@ -77,18 +74,16 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 
 ### 🧩 Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" />
 </p>
 
 ---
@@ -150,25 +145,22 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 ---
 
 ## 🏆 Achievements & Milestones
+🎯 **Goals for 2026**
 
-<div align="center">
+- Improve problem solving on LeetCode
+- Build more AI/ML based projects
+- Contribute to open source
+- Learn advanced data analytics techniques
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhoomi155&theme=juicyfresh&no-frame=true&row=1&column=6)
+---
 
-</div>
+## 💡 Areas of Interest
 
-🎯 **Current Goals for 2025:**
-- [ ] Contribute to 5+ open source projects
-- [ ] Build and deploy 3 AI-powered applications
-- [ ] Learn advanced machine learning concepts
-- [ ] Mentor aspiring developers
-- [ ] Write technical blogs and tutorials
-
-<!--- <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Bhoomi Singh Resume" />
-  </a>
-</div> --->
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Web Development
+- Intelligent Data-Driven Applications
 
 ---
 

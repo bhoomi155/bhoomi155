@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm BHOOMI SINGH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
-<h3 align="center">Aspiring AIML Engineer | Front-End Developer | Web Enthusiast 🚀</h3> 
+<h3 align="center">AI/ML Enthusiast | Data Analytics Learner | Building Real-World ML & Web Projects </h3> 
 
 <p align="center">
   <a href="https://git.io/typing-svg">

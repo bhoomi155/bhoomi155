@@ -32,9 +32,9 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 I enjoy building projects that combine **data analysis with practical applications**, such as customer segmentation systems and intelligent web applications.
 
 Currently focusing on:
-- Machine Learning fundamentals
-- Data analytics using Python
-- Building interactive web applications
+* Machine Learning fundamentals
+* Data analytics using Python
+* Building interactive web applications
 
 I believe the best way to learn technology is **by building real projects and solving practical problems.**
 
@@ -147,20 +147,20 @@ I believe the best way to learn technology is **by building real projects and so
 ## 🏆 Achievements & Milestones
 🎯 **Goals for 2026**
 
-- Improve problem solving on LeetCode
-- Build more AI/ML based projects
-- Contribute to open source
-- Learn advanced data analytics techniques
+* Improve problem solving on LeetCode
+* Build more AI/ML based projects
+* Contribute to open source
+* Learn advanced data analytics techniques
 
 ---
 
 ## 💡 Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Web Development
-- Intelligent Data-Driven Applications
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Web Development
+* Intelligent Data-Driven Applications
 
 ---
 

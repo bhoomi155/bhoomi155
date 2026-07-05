@@ -91,26 +91,25 @@ I believe the best way to learn technology is **by building real projects and so
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhoomi155&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi155&layout=compact&langs_count=8&theme=neon"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhoomi155&theme=rose_pine" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhoomi155&theme=rose_pine" />
 </div>
+
 
 
 ## 🔥 Streak Stats
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhoomi155&theme=neon-dark)](https://git.io/streak-stats)
-
-
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bhoomi155&theme=rose-pine" />
 </div>
 
-### ⚡ Recent GitHub Activity
-<div align="center">
-  
-[![Bhoomi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhoomi155&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+## ⚡ Recent GitHub Activity
+<div align="center">
+
+[![Bhoomi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhoomi155&bg_color=0D1117&color=f59e9e&line=f59e9e&point=ffe4e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
@@ -118,21 +117,21 @@ I believe the best way to learn technology is **by building real projects and so
 
 ## 📌📂 My Repositories & Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+<p align="center">
+  <a href="https://github.com/bhoomi155/Firebase-Login-UI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bhoomi155&repo=Firebase-Login-UI&theme=nord" />
+  </a>
+  
+  <a href="https://github.com/bhoomi155/Retro-typing-speed-test">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bhoomi155&repo=Retro-typing-speed-test&theme=nord" />
+  </a>
+</p>
 
-<div align="center">
-
-<a href="https://github.com/bhoomi155/Firebase-Login-UI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomi155&repo=Firebase-Login-UI&theme=neon" />
-</a>
-<a href="https://github.com/bhoomi155/Retro-typing-speed-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomi155&repo=Retro-typing-speed-test&theme=neon" />
-</a>
-<a href="https://github.com/bhoomi155/AI-Visual">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomi155&repo=AI-Visual&theme=neon" />
-</a>
+<p align="center">
+  <a href="https://github.com/bhoomi155/AI-Visual">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bhoomi155&repo=AI-Visual&theme=nord" />
+  </a>
+</p>
 
 **Firebase Login UI** – Animated, secure login/signup with Firebase.<br>
 **Retro Typing Speed Test** – Arcade-style typing with real-time feedback.  

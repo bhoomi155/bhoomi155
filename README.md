@@ -1,20 +1,18 @@
 <h1 align="center">Hi , I'm BHOOMI SINGH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
  
-<h3 align="center">AI/ML Enthusiast | Data Analytics Learner | Building Real-World ML & Web Projects </h3> 
+<h3 align="center">Building skills through Curiosity, Consistency, and Real-World Projects.</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Front+End+Developer;AI+%26+ML+Enthusiast;Solving+Today,Shaping+Tomorrow">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=30&pause=2500&color=9CCFD8&center=true&vCenter=true&width=1000&lines=Learning+with+purpose;Building+through+practice;Growing+through+consistency" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhoomi155&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bhoomi155&color=6b7280&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/bhoomi155">
-    <img src="https://img.shields.io/github/followers/bhoomi155?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/bhoomi155?style=for-the-badge&color=4b5563" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/bhoomi155">
-    <img src="https://img.shields.io/github/stars/bhoomi155?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/bhoomi155?style=for-the-badge&color=111827" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -27,35 +25,18 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**.
+I focus on learning technology by building, testing, and improving real projects.
 
-I enjoy building projects that combine **data analysis with practical applications**, such as customer segmentation systems and intelligent web applications.
+My areas of interest include Artificial Intelligence, Machine Learning, Data Analytics, and Front-end development.
+Instead of just studying concepts, I prefer applying them to small but meaningful projects that help me understand how systems actually work.
 
-Currently focusing on:
-* Machine Learning fundamentals
-* Data analytics using Python
-* Building interactive web applications
-
-I believe the best way to learn technology is **by building real projects and solving practical problems.**
-
----
-
-
-<!---<h1 align="center">Hi , I'm BHOOMI SINGH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Solving+Today,Shaping+Tomorrow)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhoomi155&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/bhoomi155?style=for-the-badge&color=orange)](https://github.com/bhoomi155)
-[![GitHub stars](https://img.shields.io/github/stars/bhoomi155?style=for-the-badge&color=yellow)](https://github.com/bhoomi155)
-
-</div>
-
-<picture><img src="gitbanner.gif" width="100%"></picture> ---> 
+What I’m currently working on:
+- Understanding ML fundamentals through practice
+- Exploring data patterns using Python
+- Building clean and responsive web interfaces
 
 ---
+
 ## 🛠️ Tech Arsenal
 
 ### 🌐 Frontend Technologies  

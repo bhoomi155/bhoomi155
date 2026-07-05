@@ -96,7 +96,7 @@ What I’m currently working on:
 ---
 
 
-## 📌📂 My Repositories & Featured Projects
+## 📌 My Featured Projects
 
 <p align="center">
   <a href="https://github.com/bhoomi155/Firebase-Login-UI">

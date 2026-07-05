@@ -133,54 +133,24 @@ I believe the best way to learn technology is **by building real projects and so
   </a>
 </p>
 
-**Firebase Login UI** – Animated, secure login/signup with Firebase.<br>
-**Retro Typing Speed Test** – Arcade-style typing with real-time feedback.  
-**AI Visual** – Real-time insurance dashboards powered by intelligence.  
-
-
 </div>
-
-
----
-
-## 🏆 Achievements & Milestones
-🎯 **Goals for 2026**
-
-* Improve problem solving on LeetCode
-* Build more AI/ML based projects
-* Contribute to open source
-* Learn advanced data analytics techniques
-
----
-
-## 💡 Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Data Analytics
-* Web Development
-* Intelligent Data-Driven Applications
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-
 <div align="center">
-  
+ 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomi%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-singh-218557375)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomisingh3859@gmail.com)
-<!---[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhoomi.codes)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhoomi_codes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhoomisingh.dev)--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomi333singh@gmail.com)
 
 </div>
 
 ----
 
-### 💭 Daily Inspiration
+## 💭 Daily Inspiration
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
@@ -193,7 +163,7 @@ I believe the best way to learn technology is **by building real projects and so
 
 ---
 
-### 🐍 Watch my Contributions get Eaten!
+## 🐍 Watch my Contributions get Eaten!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />

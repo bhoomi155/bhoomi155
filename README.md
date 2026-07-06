@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhoomi155/bhoomi155/3fd09c442de60d267326d5b651d74cba749f9d4e/assets/gitbanner.gif" alt="Coding Night Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bhoomi155/bhoomi155/3fd09c442de60d267326d5b651d74cba749f9d4e/assets/gitbanner.gif" alt="Coding Night Banner" width="80%" />
 </p>
 
 

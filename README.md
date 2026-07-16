@@ -27,7 +27,7 @@
 
 I focus on learning technology by building, testing, and improving real projects.
 
-My areas of interest include Artificial Intelligence, Machine Learning, Data Analytics, and Front-end development.
+My areas of interest include Artificial Intelligence, Machine Learning, Data analytics, and Front-end development.
 Instead of just studying concepts, I prefer applying them to small but meaningful projects that help me understand how systems actually work.
 
 What I’m currently working on:
